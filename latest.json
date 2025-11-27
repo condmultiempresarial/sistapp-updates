@@ -1,12 +1,12 @@
 {
-  "pub_date": "2025-11-27T11:22:53Z",
+  "version": "0.1.56",
+  "notes": "Atualização versão 0.1.56",
+  "pub_date": "2025-11-27T12:17:29Z",
   "platforms": {
     "windows-x86_64": {
-      "sha256": "08309077a107424b3b02e4bd3dc259389f754f33e7a7680dac8a577406b9946e",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1d0OEsyM2xXWmtvNGRwazN3V1M4elRVV09TNkROaFh2S0liVHJsSE9SbFdSRlBHTDA3dVpNS1ZDZFJsSGFFbWFRYkFHenB4aUl6YXhvUzRsVy9QUzJNTTMyTEIxWHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MjQyNTY4CWZpbGU6YXBwbXVsdGlfMC4xLjU1X3g2NC1zZXR1cC5leGUKN2U4NTl3cU5ma21TQjBLOVMybElKRHBMekM2QVlEZjBXa05MYUVYMVlyK2ExUFp6K08yUjlZVTVjdjhYVXJQUTBNMWllKzl0VnM2QjA4aVQ5Z3JiQ0E9PQo=",
-      "url": "https://github.com/condmultiempresarial/sistapp-updates/releases/download/v0.1.55/appmulti_0.1.55_x64-setup.exe"
+      "sha256": "f2a4272d375ec1db60595c6be419f6afd8d26650b74f6fbbbd04dc21a1e8d6ff",
+      "url": "https://github.com/condmultiempresarial/sistapp-updates/releases/download/v0.1.56/appmulti_0.1.56_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1d0OEsyM2xXWmsyUmUzM2plZkxUNm9NZVJ3blZPWlp5VlVNWnhxMVFDbi8xTUlyblpVbEl4YXNGdnlua0JNWENVTUhmbGN6NU1zSTdVZmJUejlUTWNFT3lUQUJBQWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MjQ1ODQzCWZpbGU6YXBwbXVsdGlfMC4xLjU2X3g2NC1zZXR1cC5leGUKOHQvcFJqVDFQTEJURHE5dzJ3c2dsd3p5am9odU82ai9HZmhLK0wyN1dJcWFRTXFNQzBtZVE3aC9peW4rSWt5RXk2aWNRYlI2ellXOUJKUU9tVmVOQ0E9PQo="
     }
-  },
-  "notes": "Update to version 0.1.55",
-  "version": "0.1.55"
+  }
 }
